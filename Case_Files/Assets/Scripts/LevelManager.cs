@@ -10,7 +10,10 @@ public class LevelManager : MonoBehaviour
 		SceneManager.LoadScene("Menu");
 	}
 
+		public void CF(){
 
+		SceneManager.LoadScene("CF");
+	}
 
     
 }
