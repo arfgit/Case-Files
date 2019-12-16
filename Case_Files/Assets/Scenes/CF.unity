@@ -4664,7 +4664,6 @@ GameObject:
   - component: {fileID: 975571567}
   - component: {fileID: 975571566}
   - component: {fileID: 975571565}
-  - component: {fileID: 975571564}
   - component: {fileID: 975571563}
   - component: {fileID: 975571562}
   - component: {fileID: 975571561}
@@ -4963,23 +4962,15 @@ GameObject:
   - component: {fileID: 975571222}
   - component: {fileID: 975571221}
   - component: {fileID: 975571220}
-  - component: {fileID: 975571219}
-  - component: {fileID: 975571218}
   - component: {fileID: 975571217}
   - component: {fileID: 975571216}
   - component: {fileID: 975571215}
-  - component: {fileID: 975571214}
-  - component: {fileID: 975571213}
   - component: {fileID: 975571212}
   - component: {fileID: 975571211}
   - component: {fileID: 975571210}
   - component: {fileID: 975571209}
-  - component: {fileID: 975571208}
-  - component: {fileID: 975571207}
   - component: {fileID: 975571206}
   - component: {fileID: 975571205}
-  - component: {fileID: 975571204}
-  - component: {fileID: 975571203}
   - component: {fileID: 975571202}
   - component: {fileID: 975571201}
   - component: {fileID: 975571200}
@@ -4993,13 +4984,9 @@ GameObject:
   - component: {fileID: 975571192}
   - component: {fileID: 975571191}
   - component: {fileID: 975571190}
-  - component: {fileID: 975571189}
-  - component: {fileID: 975571188}
   - component: {fileID: 975571187}
   - component: {fileID: 975571186}
   - component: {fileID: 975571185}
-  - component: {fileID: 975571184}
-  - component: {fileID: 975571183}
   - component: {fileID: 975571182}
   - component: {fileID: 975571181}
   - component: {fileID: 975571180}
@@ -5017,12 +5004,8 @@ GameObject:
   - component: {fileID: 975571168}
   - component: {fileID: 975571167}
   - component: {fileID: 975571166}
-  - component: {fileID: 975571165}
-  - component: {fileID: 975571164}
   - component: {fileID: 975571163}
   - component: {fileID: 975571162}
-  - component: {fileID: 975571161}
-  - component: {fileID: 975571160}
   - component: {fileID: 975571159}
   - component: {fileID: 975571158}
   - component: {fileID: 975571157}
@@ -5030,9 +5013,7 @@ GameObject:
   - component: {fileID: 975570976}
   - component: {fileID: 975571155}
   - component: {fileID: 975571154}
-  - component: {fileID: 975571153}
   - component: {fileID: 975571152}
-  - component: {fileID: 975571151}
   - component: {fileID: 975570975}
   - component: {fileID: 975571150}
   - component: {fileID: 975571149}
@@ -5349,6 +5330,67 @@ GameObject:
   - component: {fileID: 975571272}
   - component: {fileID: 975571269}
   - component: {fileID: 975571268}
+  - component: {fileID: 975571151}
+  - component: {fileID: 975571218}
+  - component: {fileID: 975571214}
+  - component: {fileID: 975571213}
+  - component: {fileID: 975571153}
+  - component: {fileID: 975571208}
+  - component: {fileID: 975571207}
+  - component: {fileID: 975571203}
+  - component: {fileID: 975571204}
+  - component: {fileID: 975571219}
+  - component: {fileID: 975571564}
+  - component: {fileID: 975571668}
+  - component: {fileID: 975571669}
+  - component: {fileID: 975571670}
+  - component: {fileID: 975571189}
+  - component: {fileID: 975571188}
+  - component: {fileID: 975571184}
+  - component: {fileID: 975571183}
+  - component: {fileID: 975571165}
+  - component: {fileID: 975571164}
+  - component: {fileID: 975571161}
+  - component: {fileID: 975571160}
+  - component: {fileID: 975571671}
+  - component: {fileID: 975571672}
+  - component: {fileID: 975571675}
+  - component: {fileID: 975571676}
+  - component: {fileID: 975571674}
+  - component: {fileID: 975571673}
+  - component: {fileID: 975571679}
+  - component: {fileID: 975571678}
+  - component: {fileID: 975571677}
+  - component: {fileID: 975571680}
+  - component: {fileID: 975571681}
+  - component: {fileID: 975571683}
+  - component: {fileID: 975571682}
+  - component: {fileID: 975571685}
+  - component: {fileID: 975571684}
+  - component: {fileID: 975571686}
+  - component: {fileID: 975571687}
+  - component: {fileID: 975571688}
+  - component: {fileID: 975571690}
+  - component: {fileID: 975571689}
+  - component: {fileID: 975571691}
+  - component: {fileID: 975571692}
+  - component: {fileID: 975571694}
+  - component: {fileID: 975571693}
+  - component: {fileID: 975571697}
+  - component: {fileID: 975571696}
+  - component: {fileID: 975571695}
+  - component: {fileID: 975571707}
+  - component: {fileID: 975571706}
+  - component: {fileID: 975571705}
+  - component: {fileID: 975571704}
+  - component: {fileID: 975571703}
+  - component: {fileID: 975571702}
+  - component: {fileID: 975571701}
+  - component: {fileID: 975571700}
+  - component: {fileID: 975571699}
+  - component: {fileID: 975571698}
+  - component: {fileID: 975571709}
+  - component: {fileID: 975571708}
   m_Layer: 0
   m_Name: Flowchart (Story)
   m_TagString: Untagged
@@ -5369,19 +5411,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -2847.881, y: -1241.4479}
+  scrollPos: {x: -1531.6836, y: -7992.5225}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 388
-  zoom: 0.8800002
+  zoom: 0.25
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 975571696}
+  selectedCommands:
+  - {fileID: 975571695}
   variables:
   - {fileID: 975570976}
   - {fileID: 975570975}
@@ -6057,7 +6101,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3300.7556
     y: 781.86414
-    width: 124.54543
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6296,7 +6340,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3086.3547
     y: 874.57465
-    width: 126.36362
+    width: 120.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6347,7 +6391,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3076.9988
     y: 1162.0999
-    width: 136.36362
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6426,7 +6470,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3063.6228
     y: 1024.8177
-    width: 139.99997
+    width: 133.2
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6770,7 +6814,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2840.3772
     y: 852.1011
-    width: 135.45453
+    width: 133.2
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7945,7 +7989,13 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 975571677}
+  - {fileID: 975571681}
   - {fileID: 975571646}
+  - {fileID: 975571676}
+  - {fileID: 975571675}
+  - {fileID: 975571673}
+  - {fileID: 975571674}
 --- !u!114 &975571037
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -11602,7 +11652,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3172.8257
     y: 8048.0684
-    width: 121.81816
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11611,6 +11661,7 @@ MonoBehaviour:
   description: Suspect List
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 975571670}
   - {fileID: 975571636}
   - {fileID: 975571126}
   - {fileID: 975571041}
@@ -11661,7 +11712,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2252.8257
     y: 7496.0684
-    width: 121.81816
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11670,6 +11721,7 @@ MonoBehaviour:
   description: Suspect List
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 975571669}
   - {fileID: 975571635}
   - {fileID: 975571128}
   - {fileID: 975571046}
@@ -11720,7 +11772,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1996.8257
     y: 6980.0684
-    width: 121.81816
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11729,6 +11781,7 @@ MonoBehaviour:
   description: Suspect List
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 975571668}
   - {fileID: 975571634}
   - {fileID: 975571130}
   - {fileID: 975571051}
@@ -11779,7 +11832,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2580.7886
     y: 1136.6597
-    width: 132.72726
+    width: 120.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11818,7 +11871,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2468.425
     y: 5148.296
-    width: 141.81816
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11857,7 +11910,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3628.425
     y: 3708.296
-    width: 127.272705
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11896,7 +11949,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1320.8029
     y: 3707.2273
-    width: 143.63635
+    width: 133.2
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11974,7 +12027,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1796.8257
     y: 6480.0684
-    width: 121.81816
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11983,6 +12036,7 @@ MonoBehaviour:
   description: Suspect List
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 975571564}
   - {fileID: 975571633}
   - {fileID: 975571132}
   - {fileID: 975571056}
@@ -12322,16 +12376,20 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 975570972}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a4015e84616cc45cfb498561373899d2, type: 3}
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 686
+  itemId: 1335
   indentLevel: 0
-  volume: 0.176
-  fadeDuration: 1
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 377532251}
   waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
 --- !u!114 &975571152
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -12353,17 +12411,29 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 975570972}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 04659f7200983fe40b49cc144086844b, type: 3}
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 685
+  itemId: 1339
   indentLevel: 0
-  soundClip:
-  - {fileID: 8300000, guid: 10deaf8c41a660e4285cf3553cf92ae5, type: 3}
-  volume: 1
-  waitUntilFinished: 1
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 514019251}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
 --- !u!114 &975571154
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -12588,11 +12658,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 477
+  itemId: 1356
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -12618,11 +12688,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 476
+  itemId: 1355
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -12652,8 +12722,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Goodluck with your investigation!
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 775ec35af6c344749bc6ccd456a5e26a, type: 3}
+  character: {fileID: 1457871867}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -12679,8 +12749,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Thank you for your time.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -12702,16 +12772,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 470
+  itemId: 1354
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 775ec35af6c344749bc6ccd456a5e26a, type: 3}
+  portrait: {fileID: 21300000, guid: b1108ba7b4feec84299493636331d667, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1385904715}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -12732,16 +12802,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 469
+  itemId: 1353
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 21300000, guid: 7477d983e169284409ee5996f38d9f1f, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 878097016}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -12781,6 +12851,7 @@ MonoBehaviour:
   - {fileID: 975571162}
   - {fileID: 975571161}
   - {fileID: 975571160}
+  - {fileID: 975571672}
   - {fileID: 975571159}
 --- !u!114 &975571167
 MonoBehaviour:
@@ -12819,7 +12890,7 @@ MonoBehaviour:
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -12849,7 +12920,7 @@ MonoBehaviour:
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -12879,8 +12950,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Thanks, I appreciate this.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -12907,7 +12978,7 @@ MonoBehaviour:
   storyText: "Uhh..I definitely thought he could\u2019ve ran things better at this
     company. However, who am I to judge?"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -12934,8 +13005,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "So you didn\u2019t have any issues with him?"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -12961,8 +13032,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Professional.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 61ee37ebe389f274c8349b9341286732, type: 3}
+  character: {fileID: 1457871867}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -12986,10 +13057,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 460
   indentLevel: 0
-  storyText: 'What were you doing on the day of Mr. Patterson''s murder? '
+  storyText: How would you describe your relationship with Mr.Patterson?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13015,12 +13086,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 61ee37ebe389f274c8349b9341286732, type: 3}
+  portrait: {fileID: 21300000, guid: b1108ba7b4feec84299493636331d667, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1385904715}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13045,12 +13116,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 21300000, guid: 7477d983e169284409ee5996f38d9f1f, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 878097016}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13073,8 +13144,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 4163.9395
-    y: 4641.5854
+    x: 4212.7593
+    y: 4674.3726
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -13185,7 +13256,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3900.3384
     y: 4748.8877
-    width: 143.63635
+    width: 133.2
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13232,11 +13303,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 451
+  itemId: 1352
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -13262,11 +13333,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 450
+  itemId: 1351
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -13296,8 +13367,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Thanks for your response.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13321,12 +13392,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 446
   indentLevel: 0
-  storyText: "I was here actually working late with my fellow co-workers Giselle and
-    Ted.We\u2019ve been preparing Mr.Patterson\u2019s proposal because the next day
-    we had to present said proposal to a company the next day."
+  storyText: "I was here actually working late with my fellow Ted.We\u2019ve been
+    preparing Mr.Patterson\u2019s proposal because the next day we had to present
+    said proposal to a company the next day. Perhaps you should ask Giselle when she's
+    here."
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 775ec35af6c344749bc6ccd456a5e26a, type: 3}
+  character: {fileID: 1457871867}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13352,8 +13424,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "So, what were you doing on the day of Mr.Patterson\u2019s murder?"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13375,16 +13447,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 444
+  itemId: 1350
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 61ee37ebe389f274c8349b9341286732, type: 3}
+  portrait: {fileID: 21300000, guid: b1108ba7b4feec84299493636331d667, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1385904715}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13405,16 +13477,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 443
+  itemId: 1349
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 21300000, guid: 7477d983e169284409ee5996f38d9f1f, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 878097016}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13493,7 +13565,7 @@ MonoBehaviour:
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -13523,7 +13595,7 @@ MonoBehaviour:
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -13553,7 +13625,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "I don\u2019t mind at all, ask away."
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -13580,8 +13652,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "I would like to ask you a couple of questions, if you don\u2019t mind."
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13607,7 +13679,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Haha, this is nothing, I can assure you.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -13634,12 +13706,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 1457871867}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 61ee37ebe389f274c8349b9341286732, type: 3}
+  portrait: {fileID: 21300000, guid: 65615430399350241a59708aaf7fa20c, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1385904715}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13664,12 +13736,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 21300000, guid: 7477d983e169284409ee5996f38d9f1f, type: 3}
   offset: 0
-  fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  fromPosition: {fileID: 1190989149}
+  toPosition: {fileID: 878097016}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13695,8 +13767,8 @@ MonoBehaviour:
   storyText: "Hello my name is Hayden. I\u2019m a detective investigating the murder
     of Mr.Patterson. I see the office is in chaos right now."
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13722,12 +13794,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 21300000, guid: 5faec9f9a0765cc49abcf94e01ab5a43, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1190989149}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13750,8 +13822,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 3761.0918
-    y: 4399.8374
+    x: 3791.6802
+    y: 4408.0728
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -13761,6 +13833,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 975571671}
   - {fileID: 975571200}
   - {fileID: 975571199}
   - {fileID: 975571198}
@@ -13805,11 +13878,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 418
+  itemId: 1342
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -13835,11 +13908,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 417
+  itemId: 1343
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 514019251}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -13869,8 +13942,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: You are welcome detective
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a668ad11287b71247a9a1112f2d71814, type: 3}
+  character: {fileID: 514019251}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13896,8 +13969,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Thank you for your time.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13919,16 +13992,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 413
+  itemId: 1341
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 514019251}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a668ad11287b71247a9a1112f2d71814, type: 3}
+  portrait: {fileID: 21300000, guid: 27a4e3e97e52cc344ade5d4c95f85e31, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1385904715}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13949,16 +14022,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 412
+  itemId: 1340
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 21300000, guid: 7477d983e169284409ee5996f38d9f1f, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 878097016}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -13983,8 +14056,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Sure thing.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14012,8 +14085,8 @@ MonoBehaviour:
     you can\u2019t even give suggestions because he\u2019ll just throw a fit. Can
     I go back to what I'm doing now?"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 02ea8164cc59eb74083705a0bebd9399, type: 3}
+  character: {fileID: 514019251}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14039,8 +14112,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Interesting.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14083,11 +14156,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 407
+  itemId: 1338
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -14113,16 +14186,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 406
+  itemId: 1337
   indentLevel: 0
-  display: 2
+  display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 514019251}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 27a4e3e97e52cc344ade5d4c95f85e31, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1385904715}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -14148,8 +14221,8 @@ MonoBehaviour:
   storyText: "I didn\u2019t kill the guy if that\u2019s what you\u2019re thinking.
     Mr. Patterson is a lazy kind of guy..."
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 02ea8164cc59eb74083705a0bebd9399, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14175,8 +14248,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: I hated the guy, if I'm being completely honest.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a668ad11287b71247a9a1112f2d71814, type: 3}
+  character: {fileID: 514019251}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14202,8 +14275,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Did you have any problems with Mr.Patterson?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14225,16 +14298,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 402
+  itemId: 1336
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: f3c9d943da13bd34b83e135f93bd579a, type: 3}
+  portrait: {fileID: 21300000, guid: 7477d983e169284409ee5996f38d9f1f, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 878097016}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -14252,27 +14325,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 975570972}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 401
+  itemId: 1344
   indentLevel: 0
-  display: 1
-  stage: {fileID: 0}
-  character: {fileID: 0}
-  replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
-  offset: 0
-  fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
-  facing: 0
-  useDefaultSettings: 1
-  fadeDuration: 0.5
-  moveDuration: 1
-  shiftOffset: {x: 0, y: 0}
-  move: 0
-  shiftIntoPlace: 0
-  waitUntilFinished: 0
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 1176725410}
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
 --- !u!114 &975571220
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -14310,7 +14374,7 @@ MonoBehaviour:
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 514019251}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -14340,7 +14404,7 @@ MonoBehaviour:
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -14370,8 +14434,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: We had to work late because Mr. Patterson had left early.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 02ea8164cc59eb74083705a0bebd9399, type: 3}
+  character: {fileID: 514019251}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14395,11 +14459,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 394
   indentLevel: 0
-  storyText: 'I was here working the whole day. Me and Martin were preparing for the
-    presentation of a proposal we were working on. '
+  storyText: I was here working the whole day. Me and Martin were preparing for the
+    presentation of a proposal we were working on. Maybe you should question him when
+    he's here.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a668ad11287b71247a9a1112f2d71814, type: 3}
+  character: {fileID: 514019251}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14425,8 +14490,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "So, what were you doing on the day of Mr.Patterson\u2019s murder?"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14452,12 +14517,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 514019251}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a668ad11287b71247a9a1112f2d71814, type: 3}
+  portrait: {fileID: 21300000, guid: 27a4e3e97e52cc344ade5d4c95f85e31, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1385904715}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -14482,12 +14547,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 21300000, guid: 7477d983e169284409ee5996f38d9f1f, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 878097016}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -14533,7 +14598,7 @@ MonoBehaviour:
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 514019251}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -14563,7 +14628,7 @@ MonoBehaviour:
   indentLevel: 0
   display: 2
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 0}
   offset: 0
@@ -14593,8 +14658,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: No problem, I just want to ask you a couple of questions.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14621,8 +14686,8 @@ MonoBehaviour:
   storyText: "What a great observation, detective. Is it alright with you if we keep
     this conversation short? I\u2019m kind of busy here."
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 27a4e3e97e52cc344ade5d4c95f85e31, type: 3}
+  character: {fileID: 514019251}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14648,12 +14713,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 514019251}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 27a4e3e97e52cc344ade5d4c95f85e31, type: 3}
+  portrait: {fileID: 21300000, guid: f3c9d943da13bd34b83e135f93bd579a, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  toPosition: {fileID: 1385904715}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -14678,12 +14743,12 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 0}
   offset: 0
-  fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
+  fromPosition: {fileID: 1190989149}
+  toPosition: {fileID: 878097016}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
@@ -14709,8 +14774,8 @@ MonoBehaviour:
   storyText: "Hello my name is Hayden. I\u2019m a detective  investigating the murder
     of Mr.Patterson. I see the office is in chaos."
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14736,9 +14801,9 @@ MonoBehaviour:
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
-  character: {fileID: 0}
+  character: {fileID: 2085997511}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  portrait: {fileID: 0}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 0}
@@ -15464,8 +15529,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1610.4939
-    y: 2932.8408
+    x: 1623.397
+    y: 2994.1309
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -15475,16 +15540,16 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 975571219}
   - {fileID: 975571218}
+  - {fileID: 975571214}
   - {fileID: 975571217}
   - {fileID: 975571216}
   - {fileID: 975571211}
   - {fileID: 975571215}
   - {fileID: 975571210}
   - {fileID: 975571209}
-  - {fileID: 975571214}
   - {fileID: 975571213}
+  - {fileID: 975571153}
   - {fileID: 975571212}
 --- !u!114 &975571263
 MonoBehaviour:
@@ -15502,7 +15567,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1151.2732
     y: 3378.48
-    width: 138.1818
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15517,6 +15582,7 @@ MonoBehaviour:
   - {fileID: 975571205}
   - {fileID: 975571204}
   - {fileID: 975571203}
+  - {fileID: 975571219}
   - {fileID: 975571202}
 --- !u!114 &975571264
 MonoBehaviour:
@@ -15565,9 +15631,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1162.6111
-    y: 3077.4104
-    width: 145.45453
+    x: 1185.6111
+    y: 3086.4104
+    width: 136.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15606,6 +15672,7 @@ MonoBehaviour:
   description: Giselle arc
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 975571151}
   - {fileID: 975571028}
   - {fileID: 975571236}
   - {fileID: 975571235}
@@ -16094,7 +16161,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 331
   indentLevel: 0
-  storyText: Giselle, and Martin are the ones you should definitely talk to.
+  storyText: Giselle, and Martin are the ones you should definitely talk to, although
+    they seemed to be out today.
   description: 
   character: {fileID: 2085997511}
   portrait: {fileID: 0}
@@ -16448,7 +16516,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4849.502
     y: 2947.8584
-    width: 132.72726
+    width: 123.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16563,8 +16631,8 @@ MonoBehaviour:
   - {fileID: 975571270}
   - {fileID: 975571272}
   - {fileID: 975571269}
-  - {fileID: 975571267}
   - {fileID: 975571268}
+  - {fileID: 975571267}
 --- !u!114 &975571301
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -17940,7 +18008,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2478.4666
     y: 240.09009
-    width: 169.09088
+    width: 155.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18665,7 +18733,7 @@ MonoBehaviour:
   storyText: Interesting, thank you for your time.
   description: 
   character: {fileID: 2085997511}
-  portrait: {fileID: 21300000, guid: 7477d983e169284409ee5996f38d9f1f, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -18806,8 +18874,8 @@ MonoBehaviour:
   storyText: Well, I mean there's one person that James tried to talk to but the person
     never budged. The guy always got annoyed at James when he approached him.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 3a3db31bf3088ac4f9ea48413956f627, type: 3}
+  character: {fileID: 1535680157}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -18833,8 +18901,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: You said almost everyone liked him, so who didn't like him?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -18942,8 +19010,8 @@ MonoBehaviour:
   storyText: Why would anyone hate James? Practically almost everyone adored him.
     James was sort of popular but not really.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 3a3db31bf3088ac4f9ea48413956f627, type: 3}
+  character: {fileID: 1535680157}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -18969,8 +19037,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Do you know anyone who hated James?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: be7029394a8eefa4b8f4558b52a0ba2d, type: 3}
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -19056,7 +19124,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1004.5427
     y: 3416.8252
-    width: 125.45453
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19483,7 +19551,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1427.3549
     y: 3239.8318
-    width: 132.72726
+    width: 123.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21041,7 +21109,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2258.6238
     y: 2148.9255
-    width: 126.36362
+    width: 120.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21206,7 +21274,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1997.8215
     y: 1790.1924
-    width: 133.63635
+    width: 126.8
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22880,7 +22948,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1948552454}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 04107fda76678f24a9a59a48d6b990b2, type: 3}
+  portrait: {fileID: 21300000, guid: 7eda98c7d82aa7e4bb26c99f54ce1ea5, type: 3}
   offset: 0
   fromPosition: {fileID: 1190989149}
   toPosition: {fileID: 1385904715}
@@ -23045,7 +23113,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1948552454}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 04107fda76678f24a9a59a48d6b990b2, type: 3}
+  portrait: {fileID: 21300000, guid: 7eda98c7d82aa7e4bb26c99f54ce1ea5, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 1190989149}
@@ -23500,7 +23568,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 748.5258
     y: 555.5649
-    width: 154.54544
+    width: 146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23538,7 +23606,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 184.18965
     y: 555.9463
-    width: 154.54544
+    width: 146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23675,7 +23743,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1948552454}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 04107fda76678f24a9a59a48d6b990b2, type: 3}
+  portrait: {fileID: 21300000, guid: 7eda98c7d82aa7e4bb26c99f54ce1ea5, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 1385904715}
@@ -23848,7 +23916,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 10deaf8c41a660e4285cf3553cf92ae5, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -23898,7 +23966,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 210.48206
     y: 297.26523
-    width: 164.54543
+    width: 152.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23926,7 +23994,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 622.01935
     y: 292.75516
-    width: 130.90907
+    width: 123.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24003,20 +24071,20 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 975570972}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 22
+  itemId: 1345
   indentLevel: 0
-  targetFlowchart: {fileID: 0}
-  targetBlock: {fileID: 0}
-  startLabel:
-    stringRef: {fileID: 0}
-    stringVal: 
-  startIndex: 0
-  callMode: 0
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 465652660}
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
 --- !u!114 &975571565
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -24035,7 +24103,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 10deaf8c41a660e4285cf3553cf92ae5, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -24071,8 +24139,6 @@ MonoBehaviour:
   commandList:
   - {fileID: 975571156}
   - {fileID: 975571565}
-  - {fileID: 975571153}
-  - {fileID: 975571151}
   - {fileID: 975571558}
   - {fileID: 975571563}
   - {fileID: 975571562}
@@ -24248,13 +24314,13 @@ MonoBehaviour:
   description: Passage 1
   eventHandler: {fileID: 975571152}
   commandList:
+  - {fileID: 975571680}
   - {fileID: 975571158}
   - {fileID: 975571571}
   - {fileID: 975571568}
   - {fileID: 975571570}
   - {fileID: 975571567}
   - {fileID: 975571569}
-  - {fileID: 975571564}
   - {fileID: 975571157}
 --- !u!4 &975571573
 Transform:
@@ -24814,7 +24880,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2232.8398
     y: 2575.5393
-    width: 170.90906
+    width: 155.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25923,7 +25989,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1959.8517
     y: 2682.7305
-    width: 121.81816
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26228,7 +26294,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1942.6035
     y: 2547.0308
-    width: 124.54543
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27071,9 +27137,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1263
   indentLevel: 0
-  storyText: edit
+  storyText: Based on all the information and clues you have gathered throughout your
+    investigation, you believe that...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1926001126}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -27268,7 +27335,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2228.9275
     y: 2327.9639
-    width: 120.90907
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27392,7 +27459,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2914.6523
     y: 570.1834
-    width: 132.72726
+    width: 123.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27560,6 +27627,1255 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
+--- !u!114 &975571668
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1346
+  indentLevel: 0
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 465652660}
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
+--- !u!114 &975571669
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1347
+  indentLevel: 0
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 465652660}
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
+--- !u!114 &975571670
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1348
+  indentLevel: 0
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 465652660}
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
+--- !u!114 &975571671
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1357
+  indentLevel: 0
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 377532251}
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
+--- !u!114 &975571672
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1359
+  indentLevel: 0
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 1176725410}
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
+--- !u!114 &975571673
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18c5e8d46183346b59f64b820e71f97f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1363
+  indentLevel: 0
+  compareOperator: 2
+  variable: {fileID: 975570975}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 4
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &975571674
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1362
+  indentLevel: 1
+  text: Continue
+  description: 
+  targetBlock: {fileID: 975571678}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &975571675
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1360
+  indentLevel: 1
+  text: Continue
+  description: 
+  targetBlock: {fileID: 975571679}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &975571676
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c5622b8a80845c980954170295f292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1361
+  indentLevel: 0
+  compareOperator: 5
+  variable: {fileID: 975570975}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 4
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &975571677
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437f9a4e3dbc647f9bdce95308418bff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1365
+  indentLevel: 0
+  duration: 1
+  fadeOut: 1
+  targetView: {fileID: 465652660}
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  targetCamera: {fileID: 0}
+--- !u!114 &975571678
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 3668.8726
+    y: 8761.924
+    width: 120
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 1367
+  blockName: BadEnd
+  description: You suck
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 975571685}
+  - {fileID: 975571684}
+  - {fileID: 975571687}
+  - {fileID: 975571692}
+  - {fileID: 975571688}
+  - {fileID: 975571690}
+  - {fileID: 975571689}
+  - {fileID: 975571691}
+  - {fileID: 975571686}
+  - {fileID: 975571694}
+  - {fileID: 975571693}
+  - {fileID: 975571697}
+--- !u!114 &975571679
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 4000.8726
+    y: 8457.924
+    width: 120
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 1364
+  blockName: GoodEnd
+  description: You win
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 975571683}
+  - {fileID: 975571682}
+  - {fileID: 975571707}
+  - {fileID: 975571706}
+  - {fileID: 975571705}
+  - {fileID: 975571704}
+  - {fileID: 975571703}
+  - {fileID: 975571709}
+  - {fileID: 975571708}
+  - {fileID: 975571702}
+  - {fileID: 975571701}
+  - {fileID: 975571700}
+  - {fileID: 975571699}
+  - {fileID: 975571698}
+--- !u!114 &975571680
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1368
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: deae3a644999ce242bf67e76115421bf, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &975571681
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1369
+  indentLevel: 0
+  variable: {fileID: 975570976}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &975571682
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1371
+  indentLevel: 0
+  storyText: Good job! Terrytown is finally at peace and now people are feeling safe
+    all thanks to you. Even your doubtful Boss is impressed by your accomplishment.
+  description: 
+  character: {fileID: 1926001126}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571683
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1370
+  indentLevel: 0
+  storyText: 'You have obtained all the necessary clues needed to pinpoint who the
+    murder is. The murder this whole time was Michael, Mr. Patterson''s son. '
+  description: 
+  character: {fileID: 1926001126}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571684
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1373
+  indentLevel: 0
+  storyText: Those who had hope in you, are no longer hopeful that the loose murder
+    will be caught. Your boss is extremely upset and unfortunately you were unable
+    to prove to him that you had what it takes.
+  description: 
+  character: {fileID: 1926001126}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571685
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1372
+  indentLevel: 0
+  storyText: It looks like you were unable to solve the case due to the lack of evidence
+    from the investigations. Which means the murder is still out there and looking
+    for their next potential victim.
+  description: 
+  character: {fileID: 1926001126}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571686
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1374
+  indentLevel: 0
+  storyText: NO! You had your opportunity to do so as of right now... HAYDEN YOU ARE
+    FIRED!!!!!!
+  description: 
+  character: {fileID: 1948552454}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571687
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1375
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1948552454}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 1190989149}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571688
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1376
+  indentLevel: 0
+  storyText: You are only good enough to run errands. You could never be a true detective...
+  description: 
+  character: {fileID: 1948552454}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571689
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1378
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 2085997511}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 5faec9f9a0765cc49abcf94e01ab5a43, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 878097016}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571690
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1377
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1948552454}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 1190989149}
+  toPosition: {fileID: 1385904715}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 1
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571691
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1379
+  indentLevel: 0
+  storyText: I just need more time to look over all the information... so i can correctly
+    pinpoint the murder!
+  description: 
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571692
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1380
+  indentLevel: 0
+  storyText: Hayden... I can't say that I'm, surprised you were unsuccessfulin this
+    case. I should have asked somebody else in our department to investigate these
+    two murders.
+  description: 
+  character: {fileID: 1948552454}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571693
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1382
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1948552454}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571694
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1381
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 2085997511}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571695
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1385
+  indentLevel: 0
+  storyText: THE END.
+  description: 
+  character: {fileID: 1926001126}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571696
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 4155.6836
+    y: 8852.522
+    width: 120
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 1384
+  blockName: Fin
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 975571695}
+--- !u!114 &975571697
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1383
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 975571696}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &975571698
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1395
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 975571696}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &975571699
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1394
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1948552454}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571700
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1393
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 2085997511}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571701
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1392
+  indentLevel: 0
+  storyText: I'm just kidding Hayden.
+  description: 
+  character: {fileID: 1948552454}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571702
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1391
+  indentLevel: 0
+  storyText: . . .
+  description: 
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571703
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1390
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 2085997511}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: d1150366ae0b6ac47ac306cb164853fc, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 878097016}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571704
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1389
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1948552454}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 1190989149}
+  toPosition: {fileID: 1385904715}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 1
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571705
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1388
+  indentLevel: 0
+  storyText: I was expecting you to give up, however your determinaion has changed
+    my view on you. How would you like to be a TRUE detective Hayden?
+  description: 
+  character: {fileID: 1948552454}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571706
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1387
+  indentLevel: 0
+  storyText: Hayden... Congradulations, I'm impressed that you have solved the case
+    in time. If Im being completely honest with you, I had my doubts with you.
+  description: 
+  character: {fileID: 1948552454}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571707
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1386
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1948552454}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 1190989149}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &975571708
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1397
+  indentLevel: 0
+  storyText: Oh you are still going to run some errands for me...
+  description: 
+  character: {fileID: 1948552454}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &975571709
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975570972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1396
+  indentLevel: 0
+  storyText: WOW Sir! I don't know what to say I'm honored that you allowed me to
+    pursue this case and given me a chance to prove myself to this department. Does
+    this mean I don't have to do any more errands for you?
+  description: 
+  character: {fileID: 2085997511}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &999751907
 GameObject:
   m_ObjectHideFlags: 0
@@ -30037,10 +31353,10 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 75feade7d0bc6cc439049a5f2e2cd4b3, type: 3}
-  - {fileID: 21300000, guid: 775ec35af6c344749bc6ccd456a5e26a, type: 3}
-  - {fileID: 21300000, guid: 61ee37ebe389f274c8349b9341286732, type: 3}
-  - {fileID: 21300000, guid: 3dcfdf4aa1db764478cfd0dba1cc5a9e, type: 3}
+  - {fileID: 21300000, guid: 65615430399350241a59708aaf7fa20c, type: 3}
+  - {fileID: 21300000, guid: b1108ba7b4feec84299493636331d667, type: 3}
+  - {fileID: 21300000, guid: d05b486dcafaed441a20ffc09c3318b8, type: 3}
+  - {fileID: 21300000, guid: 91c4fddfd83e75f4f8560f0c31bf9d31, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
@@ -32002,7 +33318,7 @@ SpriteRenderer:
   m_Size: {x: 17.5, y: 17.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1882299339
@@ -32231,7 +33547,7 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 04107fda76678f24a9a59a48d6b990b2, type: 3}
+  - {fileID: 21300000, guid: 7eda98c7d82aa7e4bb26c99f54ce1ea5, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   portraitsFace: 0
